@@ -1,8 +1,8 @@
-# Coding Problems
+# Hackerrank
 <br/>
 Common code problems from various sections of hackerrank and their solutions as written by me in javascript.
 
-# Problems
+#Coding Problems
 <br/>
 
 | S.No	 | Solution      |
