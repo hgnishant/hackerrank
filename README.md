@@ -7,6 +7,7 @@ Common code problems from various sections of hackerrank and their solutions as 
 
 | S.No	 | Solution      |
 | ------ |:-------------:|
-| 1	     | right-aligned |
-| 2	     | centered      |
-| 3  	   | are neat      |
+| 1	     | [Diagonal Difference](https://github.com/hgnishant/hackerrank/blob/main/coding%20problems/src/diagonal-difference.js) |
+| 2	     | [Min Max Sum](https://github.com/hgnishant/hackerrank/blob/main/coding%20problems/src/mini-max-sum.js)      |
+| 3  	   | [Plus Minus](https://github.com/hgnishant/hackerrank/blob/main/coding%20problems/src/plus-minus.js)      |
+| 4 	   | [Staircase Pattern](https://github.com/hgnishant/hackerrank/blob/main/coding%20problems/src/staircase.js) |
